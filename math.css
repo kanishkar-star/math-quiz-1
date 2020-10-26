@@ -1,0 +1,18 @@
+#welcome{
+    margin-top: -480px;
+    margin-left: 17%;
+}
+#name{
+    margin-top: -300px;
+    margin-left: 14%;
+}
+#img{
+    margin-top: 480px;
+    margin-left: 25%;
+    width:150px;
+}
+body
+{
+	background: rgb(123, 180, 138);
+}
+
